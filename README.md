@@ -3,7 +3,7 @@
 Get started today at https://imgpass.io
 
 ## Upload file. Get strong password!
-ImagePass is software that allows you to generate strong passwords from images. It is very difficult for a person to remember a password, which is long and composed of "random" letters, numbers and characters, however the image is very easy to remember.
+ImgPass is software that allows you to generate strong passwords from images. It is very difficult for a person to remember a password, which is long and composed of "random" letters, numbers and characters, however the image is very easy to remember.
 
 For development, we used our own hash function and password generation system to always generate the same password for each unique image (1 unique image; 1 unique password for this image only).
 
